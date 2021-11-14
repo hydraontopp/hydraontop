@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/_HydraOnTopp_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/HydraOnTopp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="UCYy2GlKEObVY024BoCfijdg" height="30" width="40" /></a>
-<a href="https://discord.gg/hydranetwork#1999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord" height="30" width="40" /></a>
+<a href="https://discord.gg/hydraontopp#0009" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
