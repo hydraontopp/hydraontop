@@ -26,5 +26,5 @@
 
 <summary> <strong>Discord</strong> </summary>
  <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-3/hydraontopp#0009.png" />
+  <img src="https://discord.c99.nl/widget/theme-3/723581777486282812.png" />
  </p>
