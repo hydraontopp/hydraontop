@@ -22,3 +22,9 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hydra0nt0pp&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hydra0nt0pp&layout=compact)
+
+
+<summary> <strong>Discord</strong> </summary>
+ <p align="center">
+  <img src="https://discord.c99.nl/widget/theme-3/563095907919331338.png" />
+ </p>
