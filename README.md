@@ -19,6 +19,6 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=HydraNetworkOfficial&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hydra0nt0pp&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HydraNetworkOfficial&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hydra0nt0pp&layout=compact)
