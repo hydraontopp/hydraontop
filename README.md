@@ -24,7 +24,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hydraontop&layout=compact)
 
 
-<summary> <strong>Discord</strong> </summary>
+<summary> <strong></strong> </summary>
  <p align="center">
   <img src="https://discord.c99.nl/widget/theme-3/723581777486282812.png"/>
  </p>
